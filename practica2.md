@@ -1,6 +1,6 @@
 ## Codigo en C++
 
-![capture](/capture.jpg)
+![Capture](Capture.JPG)  
 #include <iostream>
 #include <unordered_map>
 using namespace std;
